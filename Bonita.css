@@ -1,0 +1,49 @@
+/*External CSS styles.css*/
+/*Styling for body*/
+body {
+  font-family: Arial,sans-serif;
+  background-color: white;
+  color:#333;
+  margin:0;
+  padding:0;
+}
+/*Styling the header*/
+header {
+  background-color: black;
+  color:white;
+  padding: 5px 0;
+  text-align: left;
+}
+/*styling header*/
+h1 {
+  text-align: center;
+}
+/*Styling paragraph*/
+paragraph {
+  text-align: center;
+  }
+/*Footer styling*/
+footer {
+  background-color:#333;
+  color: white;
+  text-align: center;
+  padding: 10px 0;
+  position: fixed;
+  width:100%;
+  bottom:0;
+}
+/*Highlighting certain Text*/
+.highlight {
+  background-color: white;
+  font-weight: bold;
+    {
+link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #4a90e2;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            text-align: center;
+        }
+}
